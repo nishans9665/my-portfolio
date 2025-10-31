@@ -25,7 +25,7 @@ It includes sections for:
 ---
 
 ## 🖥️ Live Demo
-👉 [View Portfolio Website](https://nishans9665.github.io/my-portfolio/)  
+👉 [View Portfolio Website](https://nishans9665.github.io/my-portfolio/index.html)  
 *(Once GitHub Pages is enabled)*
 
 ---
